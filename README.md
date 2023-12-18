@@ -18,6 +18,9 @@ scikit-learn,
 TensorFlow,
 Keras.
 
+Dataset information:
+Download the dataset from https://www.kaggle.com/datasets/ahemateja19bec1025/traffic-sign-dataset-classification
+
 Installation Instructions:Install dependencies: pip install -r requirements.txt
 Download the training dataset 
 Set up the project environment.

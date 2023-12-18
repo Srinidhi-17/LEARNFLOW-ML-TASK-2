@@ -5,17 +5,18 @@ Project Description:
 This project focuses on training a Convolutional Neural Network (CNN) for recognizing traffic signs. It utilizes a dataset of traffic sign images, preprocesses the data, and trains a CNN model for classification.
 
 Technologies Used:
-Python
-NumPy
-scikit-learn
-TensorFlow
-Keras
-Requirements
-Python 3.x
-NumPy
-scikit-learn
-TensorFlow
-Keras
+Python,
+NumPy,
+scikit-learn,
+TensorFlow,
+Keras.
+
+Requirements:
+Python 3.x,
+NumPy,
+scikit-learn,
+TensorFlow,
+Keras.
 
 Installation Instructions:Install dependencies: pip install -r requirements.txt
 Download the training dataset 
